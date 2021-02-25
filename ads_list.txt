@@ -1,3 +1,4 @@
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 ladsecs.com
 0.0.0.0 clicktale.com
+0.0.0.0 tinypass.com
