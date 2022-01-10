@@ -5,3 +5,4 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 ddos-guard.net
 0.0.0.0 cams.xvideos.com
+0.0.0.0 blockadblock.com
