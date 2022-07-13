@@ -7,3 +7,5 @@
 0.0.0.0 cams.xvideos.com
 0.0.0.0 blockadblock.com
 0.0.0.0 diag.meethue.com
+0.0.0.0 analytics.mobilegamestats.com
+0.0.0.0 mobilegamestats.com
