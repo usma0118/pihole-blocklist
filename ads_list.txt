@@ -9,3 +9,4 @@
 0.0.0.0 diag.meethue.com
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 mobilegamestats.com
+0.0.0.0 telemetry.tradingview.com
