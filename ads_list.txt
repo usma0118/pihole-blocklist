@@ -10,3 +10,4 @@
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 mobilegamestats.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 adzfree-watch.net
