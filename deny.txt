@@ -1,0 +1,27 @@
+www.blockadsnot.com
+ladsecs.com
+clicktale.com
+tinypass.com
+tsyndicate.com
+ddos-guard.net
+cams.xvideos.com
+blockadblock.com
+diag.meethue.com
+analytics.mobilegamestats.com
+mobilegamestats.com
+telemetry.tradingview.com
+# Gaming ad blockers agressive
+adzfree-watch.net
+unityads.unity3d.com
+ads.prd.ie.internal.unity3d.com
+adcolony.com
+app.adjust.com adjust.com
+applovin.com
+ironsrc.com
+chartboost.com
+tapjoy.com
+inmobi.com
+mintegral.com
+ogury.io
+liftoff.io
+moatads.com
