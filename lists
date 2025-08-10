@@ -1,30 +1,94 @@
-# Core curated
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt|Hagezi Pro++
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt|Hagezi TIF Medium
+### Everything but the Kitchen Sink
+https://big.oisd.nl | General
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt | General
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt | General
+https://someonewhocares.org/hosts/zero/hosts | General
+https://v.firebog.net/hosts/static/w3kbl.txt | General
+https://winhelp2002.mvps.org/hosts.txt | General
 
-# Ads / Tracking (select, well-maintained)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt|Hagezi Popup Ads
-https://v.firebog.net/hosts/AdguardDNS.txt|AdGuard DNS
-https://v.firebog.net/hosts/Admiral.txt|Admiral
-https://v.firebog.net/hosts/Easylist.txt|EasyList
-https://v.firebog.net/hosts/Easyprivacy.txt|EasyPrivacy
-https://blocklistproject.github.io/Lists/ads.txt|BlocklistProject Ads
-https://blocklistproject.github.io/Lists/tracking.txt|BlocklistProject Tracking
-https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt|DevDan Tracking Aggressive
+### Ads
+https://adaway.org/hosts.txt | Ads
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Ads
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt | Ads
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts | Ads
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts | Ads
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt | Ads
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts | Ads
+https://v.firebog.net/hosts/AdguardDNS.txt | Ads
+https://v.firebog.net/hosts/Admiral.txt | Ads
+https://v.firebog.net/hosts/Easylist.txt | Ads
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt | Ads
+https://blocklistproject.github.io/Lists/ads.txt | Ads
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt | Game Ads
 
-# Malware / Phishing (lean set)
-https://phishing.army/download/phishing_army_blocklist_extended.txt|PhishingArmy Extended
-https://v.firebog.net/hosts/Prigent-Malware.txt|Prigent Malware
-https://v.firebog.net/hosts/Prigent-Crypto.txt|Prigent Crypto
-https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt|Malware-Filter Phishing
+### Tracking
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt | Tracking
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt | Tracking
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt | Tracking
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt | Tracking
+https://v.firebog.net/hosts/Easyprivacy.txt | Tracking
+https://v.firebog.net/hosts/Prigent-Ads.txt | Tracking
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt | Tracking
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt | Tracking
+https://blocklistproject.github.io/Lists/tracking.txt | Tracking
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt | Tracking - 🚫 High FP  
 
-# Gambling / reputation
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt|Hagezi Gambling
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts|StevenBlack FakeNews+Gambling
-https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt|DevDan Hate&Junk
+### Dangerous Stuff
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt | Malware
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt | Malware
+https://phishing.army/download/phishing_army_blocklist_extended.txt | Phishing
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full | Stalkerware
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt | Malware
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt | Scam
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts | Malware
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt | Malware
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt | Malware
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt | Malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe | Phishing
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/notserious | Scam
+https://urlhaus.abuse.ch/downloads/hostfile/ | Malware
+https://v.firebog.net/hosts/Prigent-Crypto.txt | Malware
+https://v.firebog.net/hosts/Prigent-Malware.txt | Malware
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt | Phishing
 
-# Device / Smart TV
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|Perflyst SmartTV
+### Spam
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts | Spam
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt | Spam
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt | Spam
 
-# DoH providers (block DNS-over-HTTPS)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt|Hagezi DoH Providers
+### Bad Reputation
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt | Reputation
+https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts | Reputation
+https://raw.githubusercontent.com/autinerd/anti-bertelsmann-hosts/master/bertelsmann-hosts | Reputation
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts | Reputation
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt | Gambling
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science | Reputation
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts | Gambling
+https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt | Reputation
+
+### Device / Service Specific
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt | Device Tracking
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt | Smart TV
+https://raw.githubusercontent.com/TheShawnMiranda/LG-TV-Ad-Block/master/list | Smart TV
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt | AMP Hosts
+
+### DOH (DNS over HTTPS)
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt | DoH
+https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt | DoH
+
+### Crypto
+https://blocklistproject.github.io/Lists/crypto.txt | Crypto
+
+### Stock Blocklist
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | Stock
+https://hostsfile.org/Downloads/hosts.txt | Stock
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt | Stock
+
+### Abuse
+https://blocklistproject.github.io/Lists/abuse.txt | Abuse
+
+### Usma0118
+https://raw.githubusercontent.com/usma0118/pihole-blocklist/main/ads_list.txt | Ads
+
+### Multi PRO++ - Maximum Protection
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt | General
