@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt | Sto
 https://blocklistproject.github.io/Lists/abuse.txt | Abuse
 
 ### Usma0118
-https://raw.githubusercontent.com/usma0118/pihole-blocklist/main/ads_list.txt | Ads
+https://raw.githubusercontent.com/usma0118/pihole-blocklist/refs/heads/main/deny.txt | Ads
 
 ### Multi PRO++ - Maximum Protection
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt | General
