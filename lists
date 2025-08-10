@@ -1,0 +1,30 @@
+# Core curated
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt|Hagezi Pro++
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt|Hagezi TIF Medium
+
+# Ads / Tracking (select, well-maintained)
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt|Hagezi Popup Ads
+https://v.firebog.net/hosts/AdguardDNS.txt|AdGuard DNS
+https://v.firebog.net/hosts/Admiral.txt|Admiral
+https://v.firebog.net/hosts/Easylist.txt|EasyList
+https://v.firebog.net/hosts/Easyprivacy.txt|EasyPrivacy
+https://blocklistproject.github.io/Lists/ads.txt|BlocklistProject Ads
+https://blocklistproject.github.io/Lists/tracking.txt|BlocklistProject Tracking
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt|DevDan Tracking Aggressive
+
+# Malware / Phishing (lean set)
+https://phishing.army/download/phishing_army_blocklist_extended.txt|PhishingArmy Extended
+https://v.firebog.net/hosts/Prigent-Malware.txt|Prigent Malware
+https://v.firebog.net/hosts/Prigent-Crypto.txt|Prigent Crypto
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt|Malware-Filter Phishing
+
+# Gambling / reputation
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt|Hagezi Gambling
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts|StevenBlack FakeNews+Gambling
+https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt|DevDan Hate&Junk
+
+# Device / Smart TV
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|Perflyst SmartTV
+
+# DoH providers (block DNS-over-HTTPS)
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt|Hagezi DoH Providers
